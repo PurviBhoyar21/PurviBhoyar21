@@ -20,6 +20,7 @@ I work with GIT - the distributed Version Control system. :v:
 :sassy_woman: I am up with my interest in Computer languages - C ,C++ ,Python .
 
 I have developed few frontend web developement projects (Individual + group ).
+
 My Portfolio is also available as one of my ongoing Front end Project and simultaneoulsy Deploying on Github too using Github pages.
 
 
