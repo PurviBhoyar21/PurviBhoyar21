@@ -6,6 +6,8 @@ About me :rocket:
 
    :woman_student:I am a CSE Pre Final year Student of GCOEN (Government College of Engineering Nagpur).
    
+  
+   <a href="https://twitter.com/BhoyarPurvi" rel="nofollow"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/twitter.png?raw=true" style="max-width: 100%;"></a>
    <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
