@@ -33,7 +33,7 @@ I have developed few frontend web developement projects (Individual + group ).
 My Portfolio is also available as one of my ongoing Front end Project and simultaneoulsy Deploying on Github too using Github pages.
 :raising_hand_woman:	
 
-[![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=PurviBhoyar21&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Purvibhoyar/github-readme-stats)
+  [![Purvi's github stats](https://github-readme-stats.vercel.app/api?username=PurviBhoyar21&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Purvibhoyar/github-readme-stats) 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PurviBhoyar21&theme=dark)](https://github.com/Purvibhoyar/github-readme-stats)
 
