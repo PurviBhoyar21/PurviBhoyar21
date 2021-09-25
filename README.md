@@ -2,50 +2,18 @@
 
 ✨ _A TECH STUDENT_ ✨ 
 
-About me :rocket:	
+### Firstly, Let's connect 
+<!--#### I have added Platforms where I code. Do have a look here also. -->
+   
+  <a href="https://twitter.com/BhoyarPurvi" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidd0203" height="30" width="40" style="max-width: 100%;"></a> 
+  <a href="https://www.linkedin.com/in/purvi-bhoyar-50b6561b1/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://instagram.com/poo.urvee2108" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.hackerrank.com/bhoyarpurvi" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
+  <a href="https://www.hackerearth.com/@bhoyarpurvi" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="" height="30" width="40" style="max-width: 100%;"></a>
+
+## About me :rocket:	
 
    :woman_student:I am a CSE Pre Final year Student of GCOEN (Government College of Engineering Nagpur).
-   
-  
-   <a href="https://twitter.com/BhoyarPurvi" rel="nofollow"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/raw/main/icon/twitter.png?raw=true" style="max-width: 100%;"></a>
-   <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-<!--
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
-
--->
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-<!--[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
--->
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-<!--
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/Purvibhoyar  -->
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
    :woman_technologist: I am a Enthusiastic Coder and love to develop new things. 
          I have hand in many Technologies and Software concepts too.
