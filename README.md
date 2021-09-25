@@ -23,8 +23,8 @@
          and these are available on my Github Repositories.
 
  :100:	I'm looking to collaborate with Developers through Github and work on real life projects to improve my skills on my interested fields.
-
-I work with GIT - the distributed Version Control system. :v:	
+ 
+I work with GIT - Version Control system. :v:	
 
 :sassy_woman: I am up with my interest in Computer languages - C ,C++ ,Python .
 
