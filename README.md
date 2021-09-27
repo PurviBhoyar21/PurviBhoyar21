@@ -16,15 +16,17 @@
    :woman_student:I am a CSE Pre Final year Student of GCOEN (Government College of Engineering Nagpur).
 
    :woman_technologist: I am a Enthusiastic Coder and love to develop new things. 
-         I have hand in many Technologies and Software concepts too.
-         I love Programming  with C++ and Python and I know many concepts like OOPS(Object Oriented Programming),
-         Computer Networks and DBMS basics too.Data analysis and Machine learning is one of my interest .
-         I have explored this domain and built ML and EDA (Exploratory data analysis) Projects 
-         and these are available on my Github Repositories.
+   
+   I have hand in many Technologies and Software concepts too.
+   I love Programming  with C++ and Python and I know many concepts like OOPS(Object Oriented Programming),
+   Computer Networks and DBMS basics too.Data analysis and Machine learning is one of my interest .
+         
+   I have explored this domain and built ML and EDA (Exploratory data analysis) Projects 
+   and these are available on my Github Repositories.
 
- :100:	I'm looking to collaborate with Developers through Github and work on real life projects to improve my skills on my interested fields.
+  :100: I'm looking to collaborate with Developers through Github and work on real life projects to improve my skills on my interested fields.
  
-I work with GIT - Version Control system. :v:	
+   I work with GIT - Version Control system. :v:	
 
 :sassy_woman: I am up with my interest in Computer languages - C ,C++ ,Python .
 
