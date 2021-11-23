@@ -28,8 +28,6 @@
    and these are available on my Github Repositories.
 
    - I'm looking to collaborate with Developers through Github and work on real life projects to improve my skills on my interested fields. :100:
- 
-   - I work with GIT - Version Control system. :v:	
 
    - I am up with my interest in Computer languages - C ,C++ ,Python .:sassy_woman: 
 
