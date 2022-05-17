@@ -1,4 +1,4 @@
-# Hi People👋, I am Purvi Bhoyar :smiley:	
+# Hi👋, I am Purvi Bhoyar :smiley:	
 
 ✨ _A TECH STUDENT_ ✨ 
 
