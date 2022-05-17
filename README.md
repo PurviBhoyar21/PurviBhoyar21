@@ -2,7 +2,7 @@
 
 ✨ _A TECH STUDENT_ ✨ 
 
-### Firstly, Let's connect 
+### Social handles->
 <!--#### I have added Platforms where I code. Do have a look here also. -->
    
  
