@@ -14,7 +14,7 @@
 
 ## About me :rocket:	
 
-   - :woman_student:A CSE Final year Student of GCOEN (Government College of Engineering Nagpur).
+   - :woman_student:Recent CSE graduate from GCOEN (Government College of Engineering Nagpur).
 
    - :woman_technologist: A Enthusiastic Coder and love to develop new things. 
    
