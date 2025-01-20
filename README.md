@@ -5,11 +5,10 @@
 🎓 I'm currently pursuing a Master's in Computer Science at University College Dublin (UCD), specializing in **Computer Science**. With a strong foundation and interest in data science and a passion for solving complex problems through data, I focus on leveraging cutting-edge technologies to derive meaningful insights and build impactful solutions.
 
 ### 🔍 Areas of Interest::
-- **Data Science & Analytics**
-- **Machine Learning & Artificial Intelligence**
+- **Machine Learning & data anlytics**
 - **Big Data & Cloud Computing**
 - **Information Visulisation**
-- **Python Java programming**
+- **Python, Java programming**
 
 ### 🚀 Projects:
  **Employee attrition real-life data analysis – A Natural language processing and supervised learning project**  
@@ -21,10 +20,6 @@
 
 *Key Skills:* Data preprocessing, feature engineering, model selection, Scikit-learn, Numpy, pandas, matplotlib, Information Visualisation, NLP, Microsoft Excel
 
-
-### 💡 What I’m Currently Working On:
-- Enhancing my expertise in **Advanced Machine learning** and **Natural language processing** by exploring personal projects
-- Collaborating on open-source projects to contribute to the **data science community**.
 
 ### 🔗 Let's Connect:
 - **Email:** bhoyarpurvi@gmail.com
