@@ -5,9 +5,9 @@
 🎓 I'm currently pursuing a Master's in Computer Science at University College Dublin (UCD), specializing in **Computer Science**. With a strong foundation and interest in data science and a passion for solving complex problems through data, I focus on leveraging cutting-edge technologies to derive meaningful insights and build impactful solutions.
 
 ### 🔍 Areas of Interest::
-- **Machine Learning & data anlytics**
+- **Machine Learning & data analytics**
 - **Big Data & Cloud Computing**
-- **Information Visulisation**
+- **Information Visualisation**
 - **Python, Java programming**
 
 ### 🚀 Projects:
